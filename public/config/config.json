@@ -9,7 +9,7 @@
   "NFT_NAME": "Ziadeshatlah",
   "SYMBOL": "ZNFT",
   "MAX_SUPPLY": 100,
-  "WEI_COST": 70000000000000000,
+  "WEI_COST": 50000000000000000,
   "DISPLAY_COST": "0.05-presale/0.07-public",
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
