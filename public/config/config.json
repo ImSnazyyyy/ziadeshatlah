@@ -6,8 +6,8 @@
     "SYMBOL": "ETH",
     "ID": 4
   },
-  "NFT_NAME": "Ziadeshatlah",
-  "SYMBOL": "ZNFT",
+  "NFT_NAME": "Doodlegenesistest",
+  "SYMBOL": "DDNFT",
   "MAX_SUPPLY": 100,
   "WEI_COST": 10000000000000000,
   "DISPLAY_COST": "0.01-presale/0.03-public",
